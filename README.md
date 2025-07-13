@@ -7,6 +7,7 @@
 <img width="1343" height="601" alt="image" src="https://github.com/user-attachments/assets/e5c5036e-7dc7-43d8-b960-81562f50d054" />
 
 🧃 TNT - Energia Não Para
+
 Este projeto é uma landing page responsiva fictícia para a marca de energéticos TNT, desenvolvida com HTML, CSS e JavaScript puro, com foco em design moderno, cores vibrantes e experiência do usuário.
 
 🔥 Funcionalidades
@@ -36,5 +37,6 @@ Este projeto é uma landing page responsiva fictícia para a marca de energétic
 ```
 
 🎯 Objetivo
+
 Este projeto foi criado com fins educacionais e de portfólio, simulando a presença online de uma marca real, para demonstrar habilidades de front-end e design responsivo.
 
