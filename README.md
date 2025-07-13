@@ -26,12 +26,14 @@ Este projeto é uma landing page responsiva fictícia para a marca de energétic
 - Google Fonts (Anton)
 
 📁 Estrutura Básica
+```
 ├── index.html
 ├── style.css
 ├── image/
 │   ├── tnt1.png
 │   ├── tnt1v2.png
 │   ├── ...
+```
 
 🎯 Objetivo
 Este projeto foi criado com fins educacionais e de portfólio, simulando a presença online de uma marca real, para demonstrar habilidades de front-end e design responsivo.
